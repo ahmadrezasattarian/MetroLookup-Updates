@@ -1,5 +1,5 @@
    {
        "latest_version": "11.2.5",
-       "release_notes": "Read 3-column consumption files (SKU, qty, date) from data/consumption\nCalculate totalConsumption and consumption30 (last 30 days) per SKU\nShow last 30 days in the Index \"Reserved\" card",
+       "release_notes": "release_notes": "Consumption totals and 30-day usage per SKU",
        "download_url": "https://github.com/ahmadrezasattarian/MetroLookupApp/releases/download/v11.2.5/MetroLookup.exe"
    }
